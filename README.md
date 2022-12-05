@@ -1,4 +1,4 @@
-# Rating Product Using ython
+# Rating Product Using Python
 
 In this section, we will be rating the product with python.
 
